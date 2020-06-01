@@ -1,0 +1,5 @@
+name: LinksReloaded
+version: @version@
+main: me.icecodder.linksreloaded.Main
+authors: [icecodder]
+description: A small plugin to display useful links to your Bukkit/Spigot/Paper server.
